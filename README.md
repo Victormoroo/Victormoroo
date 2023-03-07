@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div><br>
 
 ### Other Knowledge:
