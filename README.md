@@ -7,14 +7,14 @@
     <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormoroo&layout=compact&hide_border=true&langs_count=6&title_color=fd428d&text_color=a0f1eb&bg_color=0d1117"/>
 </div>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue)
+
 ### Main skills:
 <div style="display: inline_block">
     <img align="center" alt="VictorHTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" alt="VictorCSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" alt="VictorJS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div><br>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue)
 
 ### Tools:
 <div>
