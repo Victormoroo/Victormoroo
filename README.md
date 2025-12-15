@@ -23,10 +23,4 @@
     <img src="https://img.shields.io/badge/Docker-0D1117.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div><br>
 
-### Studying in this moment:
-<div>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&height=120&section=footer"/>
