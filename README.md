@@ -10,17 +10,9 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue) -->
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,vite,nodejs,spring)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,nodejs,python,mysql,postgres,mongodb,docker,tailwind)](https://skillicons.dev)<br>
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,vercel)](https://skillicons.dev)<br>
-
-### Other Knowledge:
-<div>
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/PostgreSQL-0D1117.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-0D1117.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-</div><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,vercel,figma,notion,postman)](https://skillicons.dev)<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&height=120&section=footer"/>
