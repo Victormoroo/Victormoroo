@@ -10,11 +10,11 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue) -->
 
 ### Main skills:
-<div style="display: inline_block">
-    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp
-    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp
-    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,vite" />
+  </a>
+</p><br>
 
 ### Tools:
 <div>
