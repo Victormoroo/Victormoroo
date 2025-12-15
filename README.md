@@ -10,7 +10,7 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue) -->
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,vite)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,vite,nodejs,spring)](https://skillicons.dev)<br>
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,vercel)](https://skillicons.dev)<br>
