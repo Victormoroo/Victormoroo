@@ -10,23 +10,10 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue) -->
 
 ### Main skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,vite" />
-  </a>
-</p><br>
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,vite)](https://skillicons.dev)<br>
 
 ### Tools:
-<div>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/macOS-0D1117.svg?style=for-the-badge&logo=macOS&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/DBeaver-0D1117.svg?style=for-the-badge&logo=DBeaver&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,vercel)](https://skillicons.dev)<br>
 
 ### Other Knowledge:
 <div>
