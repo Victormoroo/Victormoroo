@@ -29,10 +29,4 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
 </div>
 
-#
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/victormoroo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd428d&height=120&section=footer"/>
