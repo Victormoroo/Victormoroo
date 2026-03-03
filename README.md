@@ -6,10 +6,10 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victormoroo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=40e0d0&text_color=ffffff&bg_color=0d1117" />
     <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormoroo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6" />
-</div>
+</div> -->
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victormoroo&theme=rogue) -->
 
